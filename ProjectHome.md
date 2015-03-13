@@ -1,0 +1,1 @@
+We want to create a checker that help us to find out what license used in the library or source code. This Tools was made python.
